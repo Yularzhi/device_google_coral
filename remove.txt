@@ -1,0 +1,5 @@
+device/google/coral
+vendor/google/coral
+vendor/google/flame
+kernel/google/msm-4.14
+hardware/qcom/sm8150
